@@ -5,7 +5,8 @@ USE `company`;
 -- Host: localhost    Database: company
 -- ------------------------------------------------------
 -- Server version	8.0.35
-
+CREATE TABLE employee;
+IF NOT EXISTS 'employee'
 /*!40101 SET @OLD_CHARACTER_SET_CLIENT=@@CHARACTER_SET_CLIENT */;
 /*!40101 SET @OLD_CHARACTER_SET_RESULTS=@@CHARACTER_SET_RESULTS */;
 /*!40101 SET @OLD_COLLATION_CONNECTION=@@COLLATION_CONNECTION */;
